@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-Game
-Tic Tac Toe game using windows form application in C#
+A C# Windows Forms application implementing the classic Tic Tac Toe game with a user-friendly interface and interactive gameplay.
